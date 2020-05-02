@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Project/Daily
-permalink: 'Project/Daily'
+title: Project/Minutes
+permalink: 'Project/Minutes'
 ---
 
 Another sample category page.
