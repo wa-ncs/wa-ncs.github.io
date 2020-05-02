@@ -19,7 +19,7 @@ feature-img: "assets/img/sample_feature_img_2.png"
 
 <center>
 
-<p> Web AtoZ</p>
+<p> Wancs </p>
 
 <p>블로그에 방문해 주셔서 감사합니다.</p>
 
