@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Infra/Docker
-permalink: '/Infra/Docker'
+title: DevLog/Flutter
+permalink: '/DevLog/Flutter'
 ---
 
 Another sample category page.

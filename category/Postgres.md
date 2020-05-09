@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Infra/Docker
-permalink: '/Infra/Docker'
+title: Data Base/Postgres
+permalink: '/DB/Postgres'
 ---
 
 Another sample category page.

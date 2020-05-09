@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Infra/Docker
-permalink: '/Infra/Docker'
+title: DevLog/React
+permalink: '/DevLog/React'
 ---
 
 Another sample category page.
