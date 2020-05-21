@@ -9,8 +9,6 @@ userImage: /assets/user-img/hongbeom.png
 ---
 <br>
 
-# Docker 를 이용한 Spring Boot 서버 띄우기
-
 ### CentOS 7 기반의 환경에서 진행했습니다
 ### 로컬과 원격 환경에서 도커를 모두 설치한 상태임을 가정하고 진행하겠습니다.
 <br/>
