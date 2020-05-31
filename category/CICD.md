@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Infra/CICD
-permalink: '/Infra/CICD'
+title: Infra/CI/CD
+permalink: '/Infra/CI/CD'
 ---
 
 Another sample category page.
