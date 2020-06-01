@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 암호화
+title: 암호화-1  
 comments: true
 categories : [Data Base/Security]
 tags: [해싱, 암호화, bcrypt, argon]
@@ -35,7 +35,7 @@ userImage: /assets/user-img/bspark.jpg
   이때의 대규모로 확보해둔 데이터를 **Rainbow Table**이라고 하며, <br>
   이를 활용한 공격을 **Rainbow Attack**이라고 한다.
 - 사실, 해시 함수는 암호화를 위한 것이 아니라 빠른 조회를 위해 고안된 것이다. <br> 
-공격자가 이러한 해시 함수의 특성을 활용해서 매우 빠른 속도로 임의의 데이터를 비교, 대조할 수 있다. ([MD5]를 사용한 경우 일반적인 장비를 이용하여 1초당 56억 개의 다이제스트를 대입할 수 있다) <br>
+   공격자가 이러한 해시 함수의 특성을 활용해서 매우 빠른 속도로 임의의 데이터를 비교, 대조할 수 있다. ([MD5]를 사용한 경우 일반적인 장비를 이용하여 1초당 56억 개의 다이제스트를 대입할 수 있다) <br>
     [MD5](Message-Digest algorithm 5) : MD5는 128비트 암호화 해시 함수이다. 임의의 길이의 메시지(variable-length message)를 입력받아, 128비트짜리 고정 길이의 출력값을 낸다. 
 
     <br>
@@ -49,8 +49,8 @@ userImage: /assets/user-img/bspark.jpg
 
 
 ### Key Derivation Function(KDF)의 종류
-    - bcrypt
-    - argon2
+ - [**bcrypt**]
+ - [**argon2**]
 
 ---
 > 참조  
